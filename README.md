@@ -12,7 +12,7 @@
 
 ### My projects
 
-Please, look at my projects prepared for "DareIT challange zostań testerem manualnym" course.
+Please, look at my projects prepared for "DareIT challange zostań testerem manualnym" course 🙂
 
 **TEST CASES**
 
@@ -70,12 +70,12 @@ Please, look at my projects prepared for "DareIT challange zostań testerem manu
 
 ### Soft skills
 
-- ability to communicate with prospective clients
+🤝 ability to communicate with prospective clients
 
-- inquisitiveness
+❓ inquisitiveness
 
-- writing skills
+✍️ writing skills
 
-- precision 
+🥢 precision 
 
 ![](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)
