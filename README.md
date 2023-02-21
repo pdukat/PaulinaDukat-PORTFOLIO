@@ -6,7 +6,7 @@ My name is Paulina Dukat. I am a master of spatial development. I work in the Ci
 
 [LinkedIN - CLICK](www.linkedin.com/in/paulina-dukat-a5b52616b)
 
-![](https://imgur.com/CDysLL8)
+![](https://media.giphy.com/media/xFaOujGmCFHoI/giphy.gif)
 
 ### My projects
 
