@@ -10,16 +10,27 @@ www.linkedin.com/in/paulina-dukat-a5b52616b
 
 ### Tools
 
+- MS Office 
+
+- ArcGis, ArcMap, QGIS
+
+- Slack
+
+- Jira (basic)
+
+- GIThub (basic)
 
 ### Tech skills
 
 
 ### Soft skills
 
-### My test case examples
+### My projects
 
+** Test cases **
 
-### My bug reports
+[TEST CASES BASED ON USER STORY](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharing)
 
+[TEST CASES ](https://docs.google.com/spreadsheets/d/1aJdtGjX23EDbuMYZd0WxBgJFTEXd28ce26LJ-b-C8TA/edit?usp=sharing)
 
 ###
