@@ -6,22 +6,6 @@ My name is Paulina Dukat. I am a master of spatial development. I work in the Ci
 
 [LinkedIN](www.linkedin.com/in/paulina-dukat-a5b52616b)
 
-### Tools
-
-- MS Office 
-
-- ArcGis, ArcMap, QGIS
-
-- Slack
-
-- Jira (basic)
-
-- GIThub (basic)
-
-### Tech skills
-
-
-### Soft skills
 
 ### My projects
 
@@ -43,4 +27,40 @@ My name is Paulina Dukat. I am a master of spatial development. I work in the Ci
 
 [ENDING RAPORT EXAMPLE](https://docs.google.com/document/d/1TaioT1y4r_8HDZ-dIuCcO-L8V7ME7-nrGjqKv2-8GDk/edit?usp=sharing)
 
-###
+### Tools
+
+- MS Office 
+
+- AutoCAD
+
+- ArcGis, ArcMap, QGIS
+
+- Slack
+
+- Jira (basic)
+
+- GIThub (basic)
+
+### Tech skills
+
+- Creating test cases
+
+- Reporting bugs
+
+- Software testing
+
+- DevTools
+
+- SQL (basic)
+
+- creating maps in AutoCad/QGis
+
+### Soft skills
+
+- ability to communicate with prospective clients
+
+- inquisitiveness
+
+- writing skills
+
+- precision 
