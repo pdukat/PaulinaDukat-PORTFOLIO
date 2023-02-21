@@ -78,6 +78,8 @@ Please, look at my projects prepared for "DareIT challange zostań testerem manu
 
 🥢 precision 
 
-good at teamwork 
+👫 good at teamwork 
+
+⏰ punctual 
 
 ![](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)
