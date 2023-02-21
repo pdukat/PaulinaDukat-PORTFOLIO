@@ -67,3 +67,5 @@ My name is Paulina Dukat. I am a master of spatial development. I work in the Ci
 - writing skills
 
 - precision 
+
+![](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif)
