@@ -8,6 +8,8 @@
 
 ![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
+***
+
 ### My projects
 
 **TEST CASES**
@@ -28,6 +30,8 @@
 
 [ENDING RAPORT EXAMPLE](https://docs.google.com/document/d/1TaioT1y4r_8HDZ-dIuCcO-L8V7ME7-nrGjqKv2-8GDk/edit?usp=sharing)
 
+***
+
 ### Tools
 
 - MS Office 
@@ -44,6 +48,8 @@
 
 - GIThub (basic)
 
+***
+
 ### Tech skills
 
 - Creating test cases
@@ -57,6 +63,8 @@
 - SQL (basic)
 
 - creating maps in AutoCad/QGis
+
+***
 
 ### Soft skills
 
