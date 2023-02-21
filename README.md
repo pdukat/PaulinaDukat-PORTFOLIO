@@ -37,6 +37,8 @@ My name is Paulina Dukat. I am a master of spatial development. I work in the Ci
 
 - Slack
 
+- Xampp
+
 - Jira (basic)
 
 - GIThub (basic)
