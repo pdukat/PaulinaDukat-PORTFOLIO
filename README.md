@@ -27,10 +27,22 @@ www.linkedin.com/in/paulina-dukat-a5b52616b
 
 ### My projects
 
-** Test cases **
+**TEST CASES**
 
 [TEST CASES BASED ON USER STORY](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharing)
 
 [TEST CASES ](https://docs.google.com/spreadsheets/d/1aJdtGjX23EDbuMYZd0WxBgJFTEXd28ce26LJ-b-C8TA/edit?usp=sharing)
+
+**EXPLORATORY TESTS**
+
+[EXAMPLE 1](https://docs.google.com/document/d/1leQafjG6w0TSUu7WEOSyP8hLsCNmrESgDq1Onno0lvg/edit?usp=sharing)
+
+[EXAMPLE @](https://docs.google.com/document/d/1CbSJ_kc7yGvm1VZ1YadWKeoKIE1_lpKVclB15Zu2AEI/edit?usp=sharing)
+
+**REPORTS**
+
+[EXAMPLE OF BUG REPORT](https://docs.google.com/document/d/1_U7dRavMEPdXdpny39uX4DJAGWdXxh4b-h3_sWoV1Ys/edit?usp=sharing)
+
+[ENDING RAPORT EXAMPLE](https://docs.google.com/document/d/1TaioT1y4r_8HDZ-dIuCcO-L8V7ME7-nrGjqKv2-8GDk/edit?usp=sharing)
 
 ###
