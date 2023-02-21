@@ -12,6 +12,7 @@
 
 ### My projects
 
+Please, look at my projects prepared for DareIT - chellange portfolio - zostań testerem manualnym course -:)
 **TEST CASES**
 
 [TEST CASES BASED ON USER STORY](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharing)
